@@ -1,0 +1,5 @@
+dataset/*
+database/*
+test/*
+.vscode
+__pycache__
